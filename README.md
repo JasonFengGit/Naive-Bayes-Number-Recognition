@@ -1,5 +1,5 @@
 # Naive-Bayes-Number-Recognition
-A [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) hand-written number classifier implemented in Python using only build-in libraries. (MNIST dataset)
+A [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) hand-written number classifier implemented in Python using only built-in libraries. (MNIST dataset)
 
 ## Dataset
 I used MNIST dataset to train the model.
