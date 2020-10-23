@@ -4,11 +4,11 @@ A [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) hand-writt
 ## Dataset
 I used MNIST dataset to train the model.
 The files are too large. You may download them [here](https://www.kaggle.com/oddrationale/mnist-in-csv). <br/>
-*You may REMOVE the first row to avoid errors.*
+***You should REMOVE the first row to avoid errors.***
 
-Training: 50000
-Validation: 10000
-Testing: 10000
+- Training: 50000
+- Validation: 10000
+- Testing: 10000
 
 ## Model
 - Input Layer: Size 784 (28 * 28 representing each pixel in an image)
